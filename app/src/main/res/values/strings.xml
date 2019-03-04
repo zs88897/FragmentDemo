@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="landscape_message">这是横屏模式碎片</string>
+    <string name="portrait_message">这是竖屏模式碎片</string>
+</resources>
